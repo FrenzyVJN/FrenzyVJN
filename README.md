@@ -1,81 +1,32 @@
-# Vijayan Sankar — Cybersecurity Engineer
+# Vijayan Sankar
 
-I build cybersecurity tools, automation systems, and developer infrastructure. My work focuses on practical security products: AI-assisted pentesting frameworks, CTF platforms, and browser-based lab environments. I care less about theory on slides and more about shipping tooling that makes security work faster.
+I build cybersecurity tools — AI-assisted pentesting frameworks, CTF platforms, and browser-based lab infrastructure. Security work that ships.
 
-> Building tools that make cybersecurity faster.
-
----
-
-## Currently
-
-Building security tooling and developer infrastructure, with a focus on AI-assisted pentesting, blockchain security, and browser-based lab environments. I spend most of my time shipping practical products rather than collecting certifications or coursework.
-
-**B.Tech, Computer Science (Cybersecurity)** — Shiv Nadar University Chennai (CGPA ~8.5/10)
+B.Tech CS (Cybersecurity), Shiv Nadar University Chennai.
 
 ---
 
-## Featured Projects
+## Projects
 
-### [PentestFrenzy / AutoPent](https://github.com/FrenzyVJN)
-An AI-assisted penetration testing framework focused on automating security workflows. Combines Python, Docker, and MCP-driven AI agents to orchestrate offensive security tooling into repeatable pipelines.
+**[PentestFrenzy / AutoPent](https://github.com/FrenzyVJN)** — AI-assisted penetration testing framework that orchestrates Python tooling, Docker, and MCP-driven AI agents into repeatable offensive workflows.
 
-`Python` · `Docker` · `MCP` · `AI Agents`
+**[EditaCTF](https://github.com/FrenzyVJN)** — A CLI-inspired Capture The Flag platform for hosting and generating cybersecurity challenges. Next.js, Supabase, TypeScript.
 
-### [EditaCTF](https://github.com/FrenzyVJN)
-A CLI-inspired Capture The Flag platform for hosting and generating cybersecurity challenges. Built as a community learning environment with challenge authoring and scoring built in.
+**[FrenzySandbox / VirtFrenzy](https://github.com/FrenzyVJN)** — Browser-based cybersecurity virtual lab. Streams isolated QEMU VMs in via Apache Guacamole, with a FastAPI control plane. Next.js, FastAPI, Docker, QEMU.
 
-`Next.js` · `Supabase` · `TypeScript`
+**[SNUC Grade Calculator](https://github.com/FrenzyVJN)** — Student utility for Shiv Nadar University Chennai, used by 500+ students. Svelte, PostHog.
 
-### [SNUC Grade Calculator](https://github.com/FrenzyVJN)
-A student utility platform built for Shiv Nadar University Chennai, used by 500+ students for grade tracking and planning. Instrumented with PostHog for privacy-conscious product analytics.
-
-`Svelte` · `PostHog`
-
-### [FrenzySandbox / VirtFrenzy](https://github.com/FrenzyVJN)
-Browser-based cybersecurity virtual lab infrastructure. Streams isolated QEMU virtual machines to the browser via Apache Guacamole, with a FastAPI control plane and Dockerized orchestration.
-
-`Next.js` · `FastAPI` · `Docker` · `QEMU` · `Apache Guacamole`
-
-### [Sol-Audit Framework](https://github.com/FrenzyVJN)
-Smart contract vulnerability analysis tooling for automated security review of Solidity contracts. Research-oriented, focused on reproducible detection and reporting.
-
-`Solidity` · `Static Analysis` · `Research Tooling`
+**[Sol-Audit Framework](https://github.com/FrenzyVJN)** — Smart contract vulnerability analysis tooling for automated Solidity review.
 
 ---
 
-## Technical Stack
+## Stack
 
-**Languages**
-`Python` · `TypeScript` · `JavaScript` · `Bash` · `C/C++` · `Java`
-
-**Security**
-Web Application Security · Penetration Testing · Blockchain Security · Smart Contract Auditing · Reverse Engineering · CTFs · OSINT
-
-**Frameworks**
-Next.js · React · Svelte · FastAPI · Node.js
-
-**Infrastructure**
-Docker · Linux · PostgreSQL · Supabase · QEMU · Nginx
-
-**AI / LLM**
-MCP Servers · AI Agents · Gemini API · Local LLM Experimentation
+Python · TypeScript · Next.js · Svelte · FastAPI · Node.js
+Docker · Linux · PostgreSQL · QEMU · Nginx
+Web AppSec · Pentesting · Smart Contract Auditing · Reverse Engineering · CTFs · OSINT
+MCP Servers · AI Agents · Gemini API
 
 ---
 
-## Achievements
-
-- Top 1% globally on [TryHackMe](https://tryhackme.com)
-- Completed 100+ cybersecurity rooms
-- eJPT (eLearnSecurity Junior Penetration Tester) certified
-- Hackathon finalist
-- Built and maintained cybersecurity platforms used by 500+ users
-
----
-
-## Links
-
-- **GitHub:** [@FrenzyVJN](https://github.com/FrenzyVJN)
-- **LinkedIn:** [vijayan-sankar](https://linkedin.com/in/vijayan-sankar)
-- **TryHackMe:** [FrenzyVJN](https://tryhackme.com/p/FrenzyVJN)
-
-Open to security engineering roles, research collaborations, and open-source work on offensive and blockchain security tooling.
+GitHub [@FrenzyVJN](https://github.com/FrenzyVJN) · LinkedIn [vijayan-sankar](https://linkedin.com/in/vijayan-sankar)
