@@ -8,12 +8,7 @@ I build cybersecurity tools, automation systems, and developer infrastructure. M
 
 ## Currently
 
-**Cybersecurity Research Intern — [CyStar, IIT Madras](https://www.iitm.ac.in) (June 2025 – Present)**
-
-- Building modular blockchain security tooling.
-- Developing AI-assisted smart contract penetration testing workflows.
-- Working with MCP-based security automation.
-- Benchmarking analysis approaches against tools like Mythril, Slither, and Echidna.
+Building security tooling and developer infrastructure, with a focus on AI-assisted pentesting, blockchain security, and browser-based lab environments. I spend most of my time shipping practical products rather than collecting certifications or coursework.
 
 **B.Tech, Computer Science (Cybersecurity)** — Shiv Nadar University Chennai (CGPA ~8.5/10)
 
@@ -45,14 +40,6 @@ Browser-based cybersecurity virtual lab infrastructure. Streams isolated QEMU vi
 Smart contract vulnerability analysis tooling for automated security review of Solidity contracts. Research-oriented, focused on reproducible detection and reporting.
 
 `Solidity` · `Static Analysis` · `Research Tooling`
-
----
-
-## Experience
-
-| Role | Organization | Period |
-|------|-------------|--------|
-| Cybersecurity Research Intern | CyStar, IIT Madras | Jun 2025 – Present |
 
 ---
 
